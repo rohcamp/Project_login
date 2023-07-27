@@ -1,6 +1,6 @@
-# SPACE CREAM🍦
+# PROJECT WITH LOGIN
 
-PÁGINA HOME - SPACE CREAM PARA MOBILE
+PÁGINA HOME - With Creative Login.
 
 ![image](project.login.png)
 
@@ -15,4 +15,4 @@ _UTILIZANDO_
 - Variáveis;
 - Animações simples.
 
-Feito com 💜 por Rocketseat
+🚀
